@@ -1,0 +1,9 @@
+type: test_type
+name: Example
+description: 'Use <em>this stuff</em> to get to Drupal 8 development better.'
+help: 'Who needs help?'
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en
