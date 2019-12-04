@@ -1,0 +1,15 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+.panel > .panel-heading {
+     background-image: none;
+     background-color: blue;
+     color: white;
+
+}
+
+.container-inline {
+  display: inline;
+}
