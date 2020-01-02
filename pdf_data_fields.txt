@@ -1,0 +1,143 @@
+---
+FieldType: Text
+FieldName: Patient Name
+FieldNameAlt: Patient Name:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Patient Date of Birth
+FieldNameAlt: Patient Date of Birth:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MRN
+FieldNameAlt: MRN:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Payer name and contact information
+FieldNameAlt: Payer name and contact information:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: If Med Group who is the Health Plan
+FieldNameAlt: If Med Group, who is the Health Plan
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Payer product commercial Managed Medicare Managed MediCal etc
+FieldNameAlt: Payer product (commercial, Managed Medicare, Managed Medi-Cal, etc):
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Policy ID
+FieldNameAlt: Policy ID:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Auth
+FieldNameAlt: Auth#:
+FieldFlags: 4096
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Diagnosis ICD  with description
+FieldNameAlt: Diagnosis (ICD #) with description:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Service CPT to be covered by LOA
+FieldNameAlt: Service (CPT) to be covered by LOA:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Beginning effective date of LOA Auth From Date
+FieldNameAlt: Beginning effective date of LOA: (Auth From Date)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Ending effective date of LOA Auth to Date
+FieldNameAlt: Ending effective date of LOA: (Auth to Date)
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date of Service
+FieldNameAlt: Date of Service:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Department
+FieldNameAlt: Department:
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: YES or NOEmail or Fax where LOA to be returned once signed
+FieldNameAlt: YES or NO_Email or Fax where LOA to be returned once signed
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: YES or NOName  Phone Number of Requestor
+FieldNameAlt: YES or NO_Name &amp; Phone Number of Requestor
+FieldFlags: 0
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: Check Box6
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: Request Date
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Inpt
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: OutPt
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Profee
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Hosp
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: transplant_yes
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
