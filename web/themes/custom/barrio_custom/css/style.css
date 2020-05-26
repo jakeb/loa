@@ -1,0 +1,85 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+.layout-region-node-secondary {
+  display: none;
+}
+
+.field--name-field-patient-name {
+  text-align: left;
+  font-size: xxx-large;
+  font-weight: bold;
+}
+
+
+.field--name-title {
+  visibility: hidden;
+
+}
+
+/*
+.form-text {
+    display: inline-flex;
+    margin-top: .25rem;
+}
+*/
+
+.field__label {
+  font-weight: bold;
+}
+
+#edit-field-request-lastname-wrapper {
+  width: 40%;
+  display: inline-block;
+}
+
+#edit-field-patient-mi-wrapper {
+  width: 15%;
+  display: inline-block;
+}
+
+#edit-field-request-firstname-wrapper {
+  width: 44%;
+  display: inline-block;
+}
+
+#edit-field-payor-contact-e-mail-wrapper {
+  width: 55.5%;
+  display: inline-block;
+}
+
+#edit-field-payor-contact-phone-wrapper {
+  width: 44%;
+  display: inline-block;
+}
+
+
+#edit-field-urgent-wrapper {
+  width: 75%;
+  padding-left: 50%;
+  display: inline-block;
+}
+
+#edit-field-forensic-wrapper {
+  width: 20%;
+  display: inline-block;
+}
+
+
+#edit-field-dob-wrapper {
+  width: 30%;
+  display: inline-block;
+}
+
+#edit-field-request-mrn-wrapper {
+  width: 60%;
+  display: inline-block;
+}
+
+
+#edit-submit-draft {
+  visibility: hidden;
+  display: none;
+}

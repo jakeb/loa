@@ -1,0 +1,23 @@
+{#
+/**
+ * @file
+ * Theme override for an 'input' #type form element.
+ *
+ * Available variables:
+ * - attributes: A list of HTML attributes for the input element.
+ * - children: Optional additional rendered elements.
+ *
+ * @see template_preprocess_input()
+ */
+ <input id="tel" type="tel" name="phone" pattern="\(\d{3}\) \d{3}\-\d{4}" class="masked" title="10-digit number" maxlength="14" data-placeholder="(XXX) XXX-XXXX">
+#}
+{%
+  set classes = [
+
+    'form-control',
+    'masked',
+
+
+  ]
+%}
+<input{{ attributes.addClass(classes).setAttribute("data-placeholder", "(XXX) XXX-XXXX").setAttribute("placeholder", "(XXX) XXX-XXXX").setAttribute("pattern", "\\(\\d{3}\\) \\d{3}\\-\\d{4}").setAttribute("maxlength","14")  }} />{{ children }}
